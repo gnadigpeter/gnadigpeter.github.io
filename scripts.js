@@ -6,7 +6,7 @@ let data1= {
 let data2= {
     photo: 'images/malac2.jpg',
     title: 'Kitekintő',
-    description: '"Ne egyélmeg"'
+    description: '"Ne egyél meg"'
 }
 let data3= {
     photo: 'images/malac3.jpg',
@@ -16,7 +16,7 @@ let data3= {
 let data4= {
     photo: 'images/malac4.jpg',
     title: 'Füles malac',
-    description: '"Segítség! Elsűlyedek!"'
+    description: '"Segítség! Elsűlyjedek!"'
 }
 
 let currentPhoto = 0;
